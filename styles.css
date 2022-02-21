@@ -80,7 +80,7 @@
 .sectionPizzas{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionPizzas.PNG");
+    background: url("Imagenes/sectionPizzas.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -99,7 +99,7 @@
 .sectionEmpanadas{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionEmpanadas.JPG");
+    background: url("Imagenes/sectionEmpanadas.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -118,7 +118,7 @@
 .sectionNuggets{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionNuggets.JPG");
+    background: url("Imagenes/sectionNuggets.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -137,7 +137,7 @@
 .sectionFranui{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionFranui.JPG");
+    background: url("Imagenes/sectionFranui.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -156,7 +156,7 @@
 .sectionNosotros{
     width: 100%;
     height: 50vh;
-    background: url("Imagenes/sectionNosotros.PNG");
+    background: url("Imagenes/sectionNosotros.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
