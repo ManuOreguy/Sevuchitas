@@ -99,7 +99,7 @@
 .sectionEmpanadas{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionEmpanadas.jpg");
+    background: url("Imagenes/sectionEmpanadas.JPG");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -137,7 +137,7 @@
 .sectionFranui{
     width: 100%;
     height: 100vh;
-    background: url("Imagenes/sectionFranui.jpg");
+    background: url("Imagenes/sectionFranui.JPG");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
